@@ -1,0 +1,14 @@
+{
+  "name": "object-ball",
+  "version": "1.0.0",
+  "description": "NBA stats tracker lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
